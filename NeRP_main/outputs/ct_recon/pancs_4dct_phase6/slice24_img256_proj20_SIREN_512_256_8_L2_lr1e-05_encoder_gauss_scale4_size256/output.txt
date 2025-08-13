@@ -1,0 +1,118 @@
+ct_recon/pancs_4dct_phase6/slice24_img256_proj20_SIREN_512_256_8_L2_lr1e-05_encoder_gauss_scale4_size256
+Load image: ./data/ct_data/pancs_4dct_phase6.npz
+torch.Size([1, 256, 256, 2]) torch.Size([1, 256, 256, 1])
+tensor([0.0000, 0.1571, 0.3142, 0.4712, 0.6283, 0.7854, 0.9425, 1.0996, 1.2566,
+        1.4137, 1.5708, 1.7279, 1.8850, 2.0420, 2.1991, 2.3562, 2.5133, 2.6704,
+        2.8274, 2.9845], device='mps:0')
+torch.Size([1, 20, 256, 1])
+[Validation Iteration: 1/1000] Test loss: 0.03264 | Test psnr: 11.85
+[Iteration: 10/1000] Train loss: 0.00644 | Train psnr: 18.9
+[Iteration: 20/1000] Train loss: 0.003822 | Train psnr: 21.17
+[Iteration: 30/1000] Train loss: 0.0007834 | Train psnr: 28.05
+[Iteration: 40/1000] Train loss: 0.0003159 | Train psnr: 31.99
+[Iteration: 50/1000] Train loss: 0.0001654 | Train psnr: 34.81
+[Iteration: 60/1000] Train loss: 0.0001113 | Train psnr: 36.52
+[Iteration: 70/1000] Train loss: 8.14e-05 | Train psnr: 37.88
+[Iteration: 80/1000] Train loss: 6.315e-05 | Train psnr: 38.99
+[Iteration: 90/1000] Train loss: 5.218e-05 | Train psnr: 39.81
+[Iteration: 100/1000] Train loss: 4.536e-05 | Train psnr: 40.42
+[Validation Iteration: 100/1000] Test loss: 0.002439 | Test psnr: 23.12
+[Iteration: 110/1000] Train loss: 3.954e-05 | Train psnr: 41.02
+[Iteration: 120/1000] Train loss: 3.505e-05 | Train psnr: 41.54
+[Iteration: 130/1000] Train loss: 3.16e-05 | Train psnr: 41.99
+[Iteration: 140/1000] Train loss: 2.871e-05 | Train psnr: 42.41
+[Iteration: 150/1000] Train loss: 2.632e-05 | Train psnr: 42.79
+[Iteration: 160/1000] Train loss: 2.445e-05 | Train psnr: 43.11
+[Iteration: 170/1000] Train loss: 2.297e-05 | Train psnr: 43.38
+[Iteration: 180/1000] Train loss: 2.175e-05 | Train psnr: 43.62
+[Iteration: 190/1000] Train loss: 2.072e-05 | Train psnr: 43.83
+[Iteration: 200/1000] Train loss: 1.982e-05 | Train psnr: 44.02
+[Validation Iteration: 200/1000] Test loss: 0.001728 | Test psnr: 24.61
+[Iteration: 210/1000] Train loss: 1.903e-05 | Train psnr: 44.2
+[Iteration: 220/1000] Train loss: 1.832e-05 | Train psnr: 44.36
+[Iteration: 230/1000] Train loss: 1.767e-05 | Train psnr: 44.52
+[Iteration: 240/1000] Train loss: 1.708e-05 | Train psnr: 44.66
+[Iteration: 250/1000] Train loss: 1.654e-05 | Train psnr: 44.8
+[Iteration: 260/1000] Train loss: 1.604e-05 | Train psnr: 44.94
+[Iteration: 270/1000] Train loss: 1.557e-05 | Train psnr: 45.07
+[Iteration: 280/1000] Train loss: 1.514e-05 | Train psnr: 45.19
+[Iteration: 290/1000] Train loss: 1.474e-05 | Train psnr: 45.3
+[Iteration: 300/1000] Train loss: 1.436e-05 | Train psnr: 45.42
+[Validation Iteration: 300/1000] Test loss: 0.00151 | Test psnr: 25.2
+[Iteration: 310/1000] Train loss: 1.401e-05 | Train psnr: 45.53
+[Iteration: 320/1000] Train loss: 1.368e-05 | Train psnr: 45.63
+[Iteration: 330/1000] Train loss: 1.337e-05 | Train psnr: 45.73
+[Iteration: 340/1000] Train loss: 1.307e-05 | Train psnr: 45.83
+[Iteration: 350/1000] Train loss: 1.279e-05 | Train psnr: 45.92
+[Iteration: 360/1000] Train loss: 1.253e-05 | Train psnr: 46.01
+[Iteration: 370/1000] Train loss: 1.228e-05 | Train psnr: 46.1
+[Iteration: 380/1000] Train loss: 1.204e-05 | Train psnr: 46.18
+[Iteration: 390/1000] Train loss: 1.181e-05 | Train psnr: 46.27
+[Iteration: 400/1000] Train loss: 1.16e-05 | Train psnr: 46.35
+[Validation Iteration: 400/1000] Test loss: 0.001383 | Test psnr: 25.58
+[Iteration: 410/1000] Train loss: 1.139e-05 | Train psnr: 46.43
+[Iteration: 420/1000] Train loss: 1.119e-05 | Train psnr: 46.5
+[Iteration: 430/1000] Train loss: 1.1e-05 | Train psnr: 46.58
+[Iteration: 440/1000] Train loss: 1.081e-05 | Train psnr: 46.65
+[Iteration: 450/1000] Train loss: 1.063e-05 | Train psnr: 46.72
+[Iteration: 460/1000] Train loss: 1.046e-05 | Train psnr: 46.8
+[Iteration: 470/1000] Train loss: 1.029e-05 | Train psnr: 46.87
+[Iteration: 480/1000] Train loss: 1.012e-05 | Train psnr: 46.94
+[Iteration: 490/1000] Train loss: 9.965e-06 | Train psnr: 47
+[Iteration: 500/1000] Train loss: 9.812e-06 | Train psnr: 47.07
+[Validation Iteration: 500/1000] Test loss: 0.001292 | Test psnr: 25.88
+[Iteration: 510/1000] Train loss: 9.663e-06 | Train psnr: 47.14
+[Iteration: 520/1000] Train loss: 9.519e-06 | Train psnr: 47.2
+[Iteration: 530/1000] Train loss: 9.379e-06 | Train psnr: 47.27
+[Iteration: 540/1000] Train loss: 9.243e-06 | Train psnr: 47.33
+[Iteration: 550/1000] Train loss: 9.111e-06 | Train psnr: 47.39
+[Iteration: 560/1000] Train loss: 8.982e-06 | Train psnr: 47.46
+[Iteration: 570/1000] Train loss: 8.858e-06 | Train psnr: 47.52
+[Iteration: 580/1000] Train loss: 8.736e-06 | Train psnr: 47.58
+[Iteration: 590/1000] Train loss: 8.619e-06 | Train psnr: 47.64
+[Iteration: 600/1000] Train loss: 8.504e-06 | Train psnr: 47.69
+[Validation Iteration: 600/1000] Test loss: 0.001219 | Test psnr: 26.13
+[Iteration: 610/1000] Train loss: 8.392e-06 | Train psnr: 47.75
+[Iteration: 620/1000] Train loss: 8.283e-06 | Train psnr: 47.81
+[Iteration: 630/1000] Train loss: 8.177e-06 | Train psnr: 47.86
+[Iteration: 640/1000] Train loss: 8.074e-06 | Train psnr: 47.92
+[Iteration: 650/1000] Train loss: 7.973e-06 | Train psnr: 47.97
+[Iteration: 660/1000] Train loss: 7.874e-06 | Train psnr: 48.03
+[Iteration: 670/1000] Train loss: 7.778e-06 | Train psnr: 48.08
+[Iteration: 680/1000] Train loss: 7.684e-06 | Train psnr: 48.13
+[Iteration: 690/1000] Train loss: 7.592e-06 | Train psnr: 48.19
+[Iteration: 700/1000] Train loss: 7.502e-06 | Train psnr: 48.24
+[Validation Iteration: 700/1000] Test loss: 0.00116 | Test psnr: 26.35
+[Iteration: 710/1000] Train loss: 7.414e-06 | Train psnr: 48.29
+[Iteration: 720/1000] Train loss: 7.328e-06 | Train psnr: 48.34
+[Iteration: 730/1000] Train loss: 7.244e-06 | Train psnr: 48.39
+[Iteration: 740/1000] Train loss: 7.162e-06 | Train psnr: 48.44
+[Iteration: 750/1000] Train loss: 7.081e-06 | Train psnr: 48.49
+[Iteration: 760/1000] Train loss: 7.002e-06 | Train psnr: 48.54
+[Iteration: 770/1000] Train loss: 6.925e-06 | Train psnr: 48.59
+[Iteration: 780/1000] Train loss: 6.849e-06 | Train psnr: 48.63
+[Iteration: 790/1000] Train loss: 6.774e-06 | Train psnr: 48.68
+[Iteration: 800/1000] Train loss: 6.701e-06 | Train psnr: 48.73
+[Validation Iteration: 800/1000] Test loss: 0.001111 | Test psnr: 26.53
+[Iteration: 810/1000] Train loss: 6.63e-06 | Train psnr: 48.77
+[Iteration: 820/1000] Train loss: 6.56e-06 | Train psnr: 48.82
+[Iteration: 830/1000] Train loss: 6.491e-06 | Train psnr: 48.87
+[Iteration: 840/1000] Train loss: 6.424e-06 | Train psnr: 48.91
+[Iteration: 850/1000] Train loss: 6.357e-06 | Train psnr: 48.96
+[Iteration: 860/1000] Train loss: 6.293e-06 | Train psnr: 49
+[Iteration: 870/1000] Train loss: 6.229e-06 | Train psnr: 49.05
+[Iteration: 880/1000] Train loss: 6.166e-06 | Train psnr: 49.09
+[Iteration: 890/1000] Train loss: 6.105e-06 | Train psnr: 49.13
+[Iteration: 900/1000] Train loss: 6.045e-06 | Train psnr: 49.18
+[Validation Iteration: 900/1000] Test loss: 0.00107 | Test psnr: 26.7
+[Iteration: 910/1000] Train loss: 5.985e-06 | Train psnr: 49.22
+[Iteration: 920/1000] Train loss: 5.927e-06 | Train psnr: 49.26
+[Iteration: 930/1000] Train loss: 5.87e-06 | Train psnr: 49.3
+[Iteration: 940/1000] Train loss: 5.814e-06 | Train psnr: 49.35
+[Iteration: 950/1000] Train loss: 5.759e-06 | Train psnr: 49.39
+[Iteration: 960/1000] Train loss: 5.704e-06 | Train psnr: 49.43
+[Iteration: 970/1000] Train loss: 5.651e-06 | Train psnr: 49.47
+[Iteration: 980/1000] Train loss: 5.598e-06 | Train psnr: 49.51
+[Iteration: 990/1000] Train loss: 5.546e-06 | Train psnr: 49.55
+[Iteration: 1000/1000] Train loss: 5.495e-06 | Train psnr: 49.59
+[Validation Iteration: 1000/1000] Test loss: 0.001035 | Test psnr: 26.84

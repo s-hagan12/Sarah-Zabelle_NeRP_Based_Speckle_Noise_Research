@@ -1,0 +1,2 @@
+image_regression/pancs_4dct_phase1/slice24_img256_SIREN_512_256_8_L2_lr0.0001_encoder_gauss_scale4_size256
+Load image: ./data/ct_data/pancs_4dct_phase1.npz
